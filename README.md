@@ -1,7 +1,7 @@
 # PickerTimerView
 react-native-iber-PickerTimerView 
 
- <PickerTimerView ref={ref => this.datePicker = ref}
+    <PickerTimerView ref={ref => this.datePicker = ref}
                 // unit={['年', '月', '日']}
                 unit={['年', '月', '週']}
                 mode={'dateWeek'}
